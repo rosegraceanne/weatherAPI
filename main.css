@@ -7,3 +7,11 @@ body{
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+#wrapper{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    border-radius: 20%;
+}

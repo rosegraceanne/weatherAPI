@@ -25,6 +25,7 @@ function aFunction() {
     console.log(jsObject.currently.apparentTemperature);
     document.getElementById("humiditySpan").innerHTML = jsObject.currently.humidity;
     document.getElementById("temperatureSpan").innerHTML = jsObject.currently.temperature;
+    document.getElementById("summarySpan").innerHTML = jsObject.currently.summary;
   }
 }
 getWeather();
