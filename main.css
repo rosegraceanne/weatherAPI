@@ -2,3 +2,8 @@
 CIS 131 Group Weather API Assignment
 Rose Haney, Chris Gillispie
 */
+body{
+    background-color: #c9ddff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}

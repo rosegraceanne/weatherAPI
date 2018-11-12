@@ -16,5 +16,6 @@ Rose Haney, Chris Gillispie
             <li>Humidity: <span id="humiditySpan"></span>%</li>
             <li>Temperature: <span id="temperatureSpan"></span> &deg;F</li>
         </ul>
+        
     </body>
 </html>
